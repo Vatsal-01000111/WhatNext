@@ -1,0 +1,43 @@
+body{
+    height: 1111px;
+}
+.main-head
+{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    /* position: fixed; */
+    /* overflow: hidden; */
+
+}
+.navbar{
+display: flex;
+}
+.navbar li{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 5px;
+
+    list-style: none;
+}
+.navbar  a{
+    color: rgb(24, 41, 35);
+    text-decoration: none;
+}
+.navbar .active{
+    color: rgb(240, 62, 8);
+}
+.navbar a:hover{
+    color: rgb(240, 62, 8);
+}
+.logo img{
+    width: 50px;
+  border-radius: 50%;
+    height: 50px;
+}
+.logo img:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
