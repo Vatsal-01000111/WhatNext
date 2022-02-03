@@ -120,7 +120,7 @@ body{
    
       background-repeat: no-repeat;
       background-size: cover;
-      border: 2px solid red;
+     /* border: 2px solid red;*/
       font-size: 30px;
       color: wheat;
       height: 670px;
@@ -141,7 +141,7 @@ body{
     z-index: 100;
       justify-content: center;
 
-      border: 2px solid beige;
+      /*border: 2px solid beige;*/
   }
   .head-apply h2{
       margin-top: 300px;
@@ -152,7 +152,7 @@ body{
     font-family: 'Roboto Mono', monospace;
       width: 65%;
       /* padding: 12px 12px; */
-      border: 2px solid blue;
+  /*    border: 2px solid blue;*/
   }
   .main-form h2{
       text-align: center;
